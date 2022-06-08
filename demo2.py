@@ -1,6 +1,5 @@
-int a = 30
-int b = 40
-int c
+a = 30
+b = 40
 
 c = int. __add__(a,b)
 print(c)
