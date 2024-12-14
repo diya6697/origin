@@ -1,1 +1,9 @@
-print("demo file creation")
+print("hello to github")
+s='''hi I am div, associate consult in capg, have 4+ year exp,
+Looking for python developer job roles, I am having html skills,
+ml liabrari skills like numpy pandas maplotlib,web scrapping'''
+
+sp=s.split(',')
+print(sp)
+
+
